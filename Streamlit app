@@ -1,0 +1,10 @@
+# Fraud Detection Project
+
+This is a fraud detection app built with Streamlit.  
+
+## Live App
+[Open the Streamlit App] https://frauddetectionproject-gcisznas95fgw4dktw9gma.streamlit.app/
+
+## Project Description
+- Streamlit interface for detecting fraudulent transactions
+- Trained model included
